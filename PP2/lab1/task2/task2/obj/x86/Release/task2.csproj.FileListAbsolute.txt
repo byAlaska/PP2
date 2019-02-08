@@ -1,0 +1,3 @@
+/Users/marcus/Documents/Week2/lab1/task2/task2/bin/Release/task2.exe
+/Users/marcus/Documents/Week2/lab1/task2/task2/obj/x86/Release/task2.csproj.CoreCompileInputs.cache
+/Users/marcus/Documents/Week2/lab1/task2/task2/obj/x86/Release/task2.exe

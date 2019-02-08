@@ -1,0 +1,6 @@
+/Users/marcus/Documents/Week2/lab2/task2/task2/bin/Debug/task2.exe
+/Users/marcus/Documents/Week2/lab2/task2/task2/bin/Debug/task2.pdb
+/Users/marcus/Documents/Week2/lab2/task2/task2/obj/x86/Debug/task2.csprojAssemblyReference.cache
+/Users/marcus/Documents/Week2/lab2/task2/task2/obj/x86/Debug/task2.csproj.CoreCompileInputs.cache
+/Users/marcus/Documents/Week2/lab2/task2/task2/obj/x86/Debug/task2.exe
+/Users/marcus/Documents/Week2/lab2/task2/task2/obj/x86/Debug/task2.pdb
