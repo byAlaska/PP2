@@ -9,6 +9,7 @@ namespace task4 {
             File.Create(source);
             File.Copy(source,destination,true);
             File.Delete(source);
+            // File.Move(source,destination,true);
         }
     }
 }
