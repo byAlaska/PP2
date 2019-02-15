@@ -9,8 +9,8 @@ namespace task1 {
             for(int i = 0; i < n; i++) {
                 int x = int.Parse(Console.ReadLine()); // заполняем массив
                 int cnt2 = 0;
-                for(int j = 1; j <= x; j++) { 
-                    if (x % j==0) { //проверяем prime or not prime
+                for(int j = 1; j <= Math.Sqrt(x); j++) {
+                    if (x % j == 0) {
                         cnt2++;
                     }
                 }

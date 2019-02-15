@@ -4,3 +4,9 @@
 /Users/marcus/Documents/Week2/lab2/task3/task3/obj/x86/Debug/task3.csproj.CoreCompileInputs.cache
 /Users/marcus/Documents/Week2/lab2/task3/task3/obj/x86/Debug/task3.exe
 /Users/marcus/Documents/Week2/lab2/task3/task3/obj/x86/Debug/task3.pdb
+/Users/marcus/Documents/keygit/PP2/PP2/lab2/task3/task3/bin/Debug/task3.exe
+/Users/marcus/Documents/keygit/PP2/PP2/lab2/task3/task3/bin/Debug/task3.pdb
+/Users/marcus/Documents/keygit/PP2/PP2/lab2/task3/task3/obj/x86/Debug/task3.csprojAssemblyReference.cache
+/Users/marcus/Documents/keygit/PP2/PP2/lab2/task3/task3/obj/x86/Debug/task3.csproj.CoreCompileInputs.cache
+/Users/marcus/Documents/keygit/PP2/PP2/lab2/task3/task3/obj/x86/Debug/task3.exe
+/Users/marcus/Documents/keygit/PP2/PP2/lab2/task3/task3/obj/x86/Debug/task3.pdb
